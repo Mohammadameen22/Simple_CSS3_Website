@@ -1,0 +1,119 @@
+
+body{
+	width: 1350px;
+}
+ 
+*{
+	padding: 0px;
+margin: 0px;
+}
+
+
+header{
+	
+height: 80px;
+}
+
+#Fdiv{
+	
+float: left;
+margin-left: 180px;
+margin-top: 28px;
+font-size: 22px;
+font-family: Helvetica, Arial,  sans-serif;
+}
+
+
+#Tdiv{
+float: right;
+margin-right:50px;
+margin-top: 28px;
+font-size: 19px;
+}
+
+#Sdiv{
+float: right;
+margin-right: 95px;
+word-spacing: 11px;
+margin-top: 30px;
+font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#Tdiv a{
+color: #11cbd7;
+}
+
+#imgDiv{
+	clear: both;	
+	background-image: url("../img/abosmra.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100%;
+	height:880px;
+}
+
+#imgDiv2{
+text-align: center;
+padding-top: 280px;
+height: 10px;
+
+}
+
+h1{
+	color: white;
+	word-spacing: 2px;
+	font-size: 45px;
+}
+
+.c{
+	color: white;
+	margin-top:  50px;
+}
+
+button{
+	background-color: #11cbd7;
+	height: 50px;
+	width: 190px;
+	color: white;
+	border: none;
+	font-size: 20px;
+    margin-top: 32px;
+    border-color: white;
+}
+
+.wid{
+
+height: 50px;
+width: 170px;
+border-style: none;
+margin:0px;
+}
+ 
+
+.WTU{
+float: left;
+margin-left: 230px;	
+padding-bottom: 170px;	
+padding-top: 90px;
+}
+ 
+ #pp{
+ 	color:#11cbd7; 
+ 	 margin-top: 60px;
+
+ }
+
+ #ww{
+ 	margin-top: 150px;
+ 	margin-right:390px; 
+ }
+
+
+
+
+
